@@ -187,4 +187,21 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>-->
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/joaop25/HamburguerBuilder.svg?style=for-the-badge
+[contributors-url]: https://github.com/joaop25/HamburguerBuilder/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/joaop25/HamburguerBuilder.svg?style=for-the-badge
+[forks-url]: https://github.com/joaop25/HamburguerBuilder/network/members
+[stars-shield]: https://img.shields.io/github/stars/joaop25/HamburguerBuilder.svg?style=for-the-badge
+[stars-url]: https://github.com/joaop25/HamburguerBuilder/stargazers
+[issues-shield]: https://img.shields.io/github/issues/joaop25/HamburguerBuilder.svg?style=for-the-badge
+[issues-url]: https://github.com/joaop25/HamburguerBuilder/issues
+[license-shield]: https://img.shields.io/github/license/joaop25/HamburguerBuilder.svg?style=for-the-badge
+[license-url]: https://github.com/joaop25/HamburguerBuilder/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github-link]: https://github.com/joaop25
+[linkedin-url]: https://www.linkedin.com/in/joao-pedro-fernandes-95a125180/
+[product-screenshot]: images/program.png
 
