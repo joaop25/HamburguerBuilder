@@ -33,9 +33,10 @@
 <div align="center">
   
   # Hamburgueria utilizando o projeto criacional Builder
-  
+<br />
+<div align="center">
   <a href="https://github.com/joaop25/HamburguerBuilder">
-    <img src="https://github.com/joaop25/HamburguerBuilder/tree/main/HamburguerBuilder/Hamburguer.png" alt="Logo" width="567" height="373">
+    <img src="https://github.com/joaop25/HamburguerBuilder/Hamburguer.png" alt="Logo" width="567" height="373">
   </a>
 
 
