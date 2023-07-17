@@ -1,0 +1,16 @@
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\bin\Debug\net5.0\HamburguerBuilder.exe
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\bin\Debug\net5.0\HamburguerBuilder.deps.json
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\bin\Debug\net5.0\HamburguerBuilder.runtimeconfig.json
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\bin\Debug\net5.0\HamburguerBuilder.runtimeconfig.dev.json
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\bin\Debug\net5.0\HamburguerBuilder.dll
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\bin\Debug\net5.0\ref\HamburguerBuilder.dll
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\bin\Debug\net5.0\HamburguerBuilder.pdb
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.csproj.AssemblyReference.cache
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.AssemblyInfoInputs.cache
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.AssemblyInfo.cs
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.csproj.CoreCompileInputs.cache
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.dll
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\ref\HamburguerBuilder.dll
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.pdb
+C:\Users\joao.fernandes\Desktop\codigos\HamburguerBuilder\obj\Debug\net5.0\HamburguerBuilder.genruntimeconfig.cache
