@@ -101,17 +101,25 @@
 
 Nesse projeto utilizei o padrão de projeto criacional Buider. Esse padrão é muito interessante, pois permite você criar vários produtos com suas respectivas características  através da sua classe builder, dessa forma seu código fica menos acoplado e tem maior coesão.
 Nesse exemplo conseguimos ver uma representação visual da estrutura do projeto. 
+ <div align="center">
+  <a href="https://github.com/joaop25/HamburguerBuilder">
  <img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/RepresentacaoProjeto.png" alt="ConfigAPI">
-
+</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 Nesse projeto utilizei o produto (Hamburguer) para conseguir demostrar mais facilmente a utilização do padrão criacional Buider. Foi criado uma classe Hamburguer com algumas propriedades que normalmente os hamburguers tem (Ex: TipoPao, TipoCarne, TemBacon, TemBatataPalha etc.), após isso foi criado um Builder (HamburguerBuilder) nessa classe realizamos a construção do nosso produto. Dessa forma, podemos construir vários produtos (Hamburguer) na nossa classe cliente.
+<br />
+<div align="center">
+  <a href="https://github.com/joaop25/HamburguerBuilder">
  <img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/ClasseBuilder.png" alt="ConfigAPI">
+</a>
 
-
+<br />
+<div align="center">
+  <a href="https://github.com/joaop25/HamburguerBuilder">
 <p align="right">(<a href="#top">back to top</a>)</p>
 <img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/OutPut.png" alt="ConfigAPI">
-
+</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
