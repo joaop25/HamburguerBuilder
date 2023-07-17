@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/joaop25/HamburguerBuilder">
-    <img src="https://github.com/joaop25/HamburguerBuilder/Hamburguer.png" alt="Logo" width="567" height="373">
+    <img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/Hamburguer.png" alt="Logo" width="567" height="373">
   </a>
 
 
@@ -101,19 +101,20 @@
 
 Nesse projeto utilizei o padrão de projeto criacional Buider. Esse padrão é muito interessante, pois permite você criar vários produtos com suas respectivas características  através da sua classe builder, dessa forma seu código fica menos acoplado e tem maior coesão.
 Nesse exemplo conseguimos ver uma representação visual da estrutura do projeto. 
- <img src="https://github.com/joaop25/HamburguerBuilder/tree/main/HamburguerBuilder/RepresentacaoProjeto.png" alt="ConfigAPI">
+ <img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/RepresentacaoProjeto.png" alt="ConfigAPI">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 Nesse projeto utilizei o produto (Hamburguer) para conseguir demostrar mais facilmente a utilização do padrão criacional Buider. Foi criado uma classe Hamburguer com algumas propriedades que normalmente os hamburguers tem (Ex: TipoPao, TipoCarne, TemBacon, TemBatataPalha etc.), após isso foi criado um Builder (HamburguerBuilder) nessa classe realizamos a construção do nosso produto. Dessa forma, podemos construir vários produtos (Hamburguer) na nossa classe cliente.
- <img src="https://github.com/joaop25/HamburguerBuilder/tree/main/HamburguerBuilder/ClasseBuilder.png" alt="ConfigAPI">
+ <img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/ClasseBuilder.png" alt="ConfigAPI">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<img src="https://github.com/joaop25/HamburguerBuilder/tree/main/HamburguerBuilder/OutPut.png" alt="ConfigAPI">
+<img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/OutPut.png" alt="ConfigAPI">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ## COPYRIGHT / CONTATOS
 -------------------------
 Projeto Hamburgueria utilizando o projeto criacional Builder por João Pedro Fernandes
