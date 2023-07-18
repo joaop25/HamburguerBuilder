@@ -100,7 +100,7 @@
 ## Projeto Hamburgueria
 
 Nesse projeto utilizei o padrão de projeto criacional Buider. Esse padrão é muito interessante, pois permite você criar vários produtos com suas respectivas características  através da sua classe builder, dessa forma seu código fica menos acoplado e tem maior coesão.
-Nesse exemplo conseguimos ver uma representação visual da estrutura do projeto. 
+Nesse exemplo conseguimos ver uma representação do diagrama de UML da estrutura do projeto. 
  <div align="center">
   <a href="https://github.com/joaop25/HamburguerBuilder">
  <img src="https://github.com/joaop25/HamburguerBuilder/blob/main/HamburguerBuilder/RepresentacaoProjeto.png" alt="ConfigAPI">
